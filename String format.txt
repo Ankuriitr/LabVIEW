@@ -1,0 +1,7 @@
+Channel: %g;
+Wavetype: %g;
+AMP: %gV; 
+Freq: %gHz ;
+RiseTime: %gs ;
+FallTime: %gs ;
+DutyCycle: %g;

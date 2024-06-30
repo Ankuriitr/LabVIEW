@@ -1,0 +1,3 @@
+The saved filename and the actual name of saved files are different .
+ To transfer file from lecroy directly to system i need to remove the excess character introduced in the filename.
+Here, -- , -- are the excess character added to the filename.
